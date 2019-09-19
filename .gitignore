@@ -1,0 +1,20 @@
+# Compilacion de origen #
+#########################
+*.com
+*.class
+*.dll
+*.o
+*.so
+
+# Paquetes #
+############
+# Es mejor descomprimir y subir los cambios
+# git tiene su propio metodo de compresion
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
