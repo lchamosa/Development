@@ -1,6 +1,6 @@
 # Proyecto fbcmd4j
 
-el objetivo de este proyecto es crear un cliente de Facebook en linea de comando en Java con Facebook4j y otras librerias de código libre, donde pueda realizar cuatro operaciones básicas, ademas de configuración de la aplicacion de Java y en Facebook.
+El objetivo de este proyecto es crear un cliente de Facebook en linea de comando en Java con Facebook4j y otras librerias de código libre, donde pueda realizar cuatro operaciones básicas, ademas de configuración de la aplicacion de Java y en Facebook.
 
 ## Instalación
 
